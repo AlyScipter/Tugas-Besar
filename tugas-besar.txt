@@ -3,3 +3,5 @@ tugas besar selama kuliah
 -sistem operasi
 -dasar pemograman
 -desain grafis
+-arsitertur dan organisasi komputer
+-pengantar teknologi informasi
